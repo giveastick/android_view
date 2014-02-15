@@ -96,10 +96,14 @@ int color abs__bright_foreground_holo_light 0x7f070003
 int color abs__bright_foreground_inverse_holo_dark 0x7f070006
 int color abs__bright_foreground_inverse_holo_light 0x7f070007
 int color abs__holo_blue_light 0x7f070008
-int color abs__primary_text_disable_only_holo_dark 0x7f070009
-int color abs__primary_text_disable_only_holo_light 0x7f07000a
-int color abs__primary_text_holo_dark 0x7f07000b
-int color abs__primary_text_holo_light 0x7f07000c
+int color abs__primary_text_disable_only_holo_dark 0x7f07000d
+int color abs__primary_text_disable_only_holo_light 0x7f07000e
+int color abs__primary_text_holo_dark 0x7f07000f
+int color abs__primary_text_holo_light 0x7f070010
+int color black 0x7f070009
+int color grey 0x7f07000a
+int color light_grey 0x7f07000b
+int color white 0x7f07000c
 int dimen abs__action_bar_default_height 0x7f080001
 int dimen abs__action_bar_icon_vertical_padding 0x7f080002
 int dimen abs__action_bar_subtitle_bottom_margin 0x7f080006
@@ -203,6 +207,7 @@ int drawable bg 0x7f020055
 int drawable bg_splash 0x7f020056
 int drawable ic_launcher 0x7f020057
 int drawable logo 0x7f020058
+int drawable whatever 0x7f020059
 int id about 0x7f050027
 int id about_title 0x7f050028
 int id abs__action_bar 0x7f050022

@@ -5,6 +5,7 @@ import android.os.Handler;
 import android.app.Activity;
 import android.content.Intent;
 import android.view.Menu;
+import com.example.giveastick.R;
 
 public class SplashActivity extends Activity {
 

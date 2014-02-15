@@ -40,7 +40,7 @@
         android:layout_alignLeft="@+id/password"
         android:layout_below="@+id/password"
         android:layout_marginTop="66dp"
-        android:background="#696F6E"
+        android:background="@drawable/whatever"
         android:text="@string/connexion"
         android:textColor="#FEFEFE"
         android:textSize="15sp" />

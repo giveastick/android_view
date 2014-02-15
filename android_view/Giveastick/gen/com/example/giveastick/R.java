@@ -596,10 +596,14 @@ containing a value of this type.
         public static final int abs__bright_foreground_inverse_holo_dark=0x7f070006;
         public static final int abs__bright_foreground_inverse_holo_light=0x7f070007;
         public static final int abs__holo_blue_light=0x7f070008;
-        public static final int abs__primary_text_disable_only_holo_dark=0x7f070009;
-        public static final int abs__primary_text_disable_only_holo_light=0x7f07000a;
-        public static final int abs__primary_text_holo_dark=0x7f07000b;
-        public static final int abs__primary_text_holo_light=0x7f07000c;
+        public static final int abs__primary_text_disable_only_holo_dark=0x7f07000d;
+        public static final int abs__primary_text_disable_only_holo_light=0x7f07000e;
+        public static final int abs__primary_text_holo_dark=0x7f07000f;
+        public static final int abs__primary_text_holo_light=0x7f070010;
+        public static final int black=0x7f070009;
+        public static final int grey=0x7f07000a;
+        public static final int light_grey=0x7f07000b;
+        public static final int white=0x7f07000c;
     }
     public static final class dimen {
         /**  Default height of an action bar. 
@@ -799,6 +803,7 @@ containing a value of this type.
         public static final int bg_splash=0x7f020056;
         public static final int ic_launcher=0x7f020057;
         public static final int logo=0x7f020058;
+        public static final int whatever=0x7f020059;
     }
     public static final class id {
         public static final int about=0x7f050027;
