@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Giveastick</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- HomeActivity -->
+    <string name="userName">Email&#8230;</string>
+    <string name="password">Mot de passe&#8230;</string>
+    <string name="connexion">Connexion</string>
+    <string name="register"><u>Inscription</u></string>
+
+    <!-- RegisterActivity -->
+    <string name="nick">Pseudo&#8230;</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="groupTag">Group tag</string>
+    <string name="validation">Validation</string>
+
+    <!-- AboutActivity -->
+    <string name="title_activity_about">A propos</string>
+    <string name="about">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis venenatis odio sit amet lacinia. Pellentesque lacinia elit quam. Nullam sollicitudin ornare purus, in vehicula quam eleifend nec. Maecenas nec rhoncus augue, sit amet tristique justo. Fusce eu interdum lorem. Maecenas mattis turpis eu vehicula sodales.</string>
+    <string name="about_title">A propos</string>
+    <string name="return_home">Retour</string>
+
+    <!-- ListActivity -->
+    <string name="title_activity_list">Liste</string>
+    <string name="action_about">A propos</string>
+    <string name="action_logout">Déconnexion</string>
+    <string name="title_activity_authentication">AuthenticationActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>
