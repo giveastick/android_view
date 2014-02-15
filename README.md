@@ -1,0 +1,1 @@
+Different views associated with the activities.
